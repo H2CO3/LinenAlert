@@ -1,5 +1,5 @@
 This project aims to be the starting point of an opensource realization of the
-quite awesome iOS UI/UX concept of Reddit user Sendry, described in detail here:
+quite awesome iOS UI/UX concept of Verge user Sendry, described in detail here:
 
     http://www.cultofmac.com/202652/heres-how-jony-ive-should-re-design-ios-7s-alerts-concept/
 
