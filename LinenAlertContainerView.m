@@ -38,7 +38,6 @@ extern CGImageRef UIGetScreenImage();
 		[self addSubview:titleLabel];
 
 		messageView = [[UnselectableTextView alloc] init];
-		messageView = [[UnselectableTextView alloc] init];
 		messageView.backgroundColor = [UIColor clearColor];
 		messageView.textAlignment = UITextAlignmentCenter;
 		messageView.textColor = [UIColor whiteColor];
